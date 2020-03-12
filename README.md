@@ -12,7 +12,7 @@ This project is on a Baby Blog. although is a project in progress.
 
 How to download
 
-1.Click on downloads on the left side.
+1.Click on downloads/clone on the right side.
 
 2.Hover on Download repository link.
 
